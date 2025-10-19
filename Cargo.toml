@@ -1,5 +1,12 @@
 [package]
 name = "hwinfo-rs"
+author = "axolotl32"
+description = "Rust bindings to the lfreist/hwinfo library"
+readme = "README.md"
+keywords = ["ffi", "hwid", "hwinfo"]
+categories = ["api-bindings"]
+repository = "https://github.com/axolotl32/hwinfo-rs"
+
 version = "0.1.0"
 edition = "2024"
 
