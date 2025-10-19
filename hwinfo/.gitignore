@@ -1,0 +1,6 @@
+/**/.vscode/**
+/**/build/**
+/.vs
+/CMakeSettings.json
+/.cache/
+/.idea/
