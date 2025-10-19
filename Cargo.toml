@@ -6,7 +6,8 @@ readme = "README.md"
 keywords = ["ffi", "hwid", "hwinfo"]
 categories = ["api-bindings"]
 repository = "https://github.com/axolotl32/hwinfo-rs"
-
+# same as library the wrapper uses
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
 
